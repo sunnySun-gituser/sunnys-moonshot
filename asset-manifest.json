@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/sunnys-moonshot/static/js/main.889ecd69.chunk.js",
+    "main.js.map": "/sunnys-moonshot/static/js/main.889ecd69.chunk.js.map",
+    "runtime~main.js": "/sunnys-moonshot/static/js/runtime~main.0a993f48.js",
+    "runtime~main.js.map": "/sunnys-moonshot/static/js/runtime~main.0a993f48.js.map",
+    "static/js/2.135171e8.chunk.js": "/sunnys-moonshot/static/js/2.135171e8.chunk.js",
+    "static/js/2.135171e8.chunk.js.map": "/sunnys-moonshot/static/js/2.135171e8.chunk.js.map",
+    "index.html": "/sunnys-moonshot/index.html",
+    "precache-manifest.a7cba513eba517095f246d2ca1146479.js": "/sunnys-moonshot/precache-manifest.a7cba513eba517095f246d2ca1146479.js",
+    "service-worker.js": "/sunnys-moonshot/service-worker.js",
+    "static/media/cart.07d5ba4a.svg": "/sunnys-moonshot/static/media/cart.07d5ba4a.svg",
+    "static/media/curve.a8a3ba3a.svg": "/sunnys-moonshot/static/media/curve.a8a3ba3a.svg",
+    "static/media/dog-1.png": "/sunnys-moonshot/static/media/dog-1.f25b4cba.png",
+    "static/media/dog-2.png": "/sunnys-moonshot/static/media/dog-2.ab7a533b.png",
+    "static/media/dog-3.png": "/sunnys-moonshot/static/media/dog-3.b6280374.png",
+    "static/media/exit.98f2a8b1.svg": "/sunnys-moonshot/static/media/exit.98f2a8b1.svg",
+    "static/media/galaxy.jpg": "/sunnys-moonshot/static/media/galaxy.0b1c6775.jpg",
+    "static/media/home.3192f86c.svg": "/sunnys-moonshot/static/media/home.3192f86c.svg",
+    "static/media/iss.jpg": "/sunnys-moonshot/static/media/iss.48932214.jpg",
+    "static/media/logo.0c7bf061.svg": "/sunnys-moonshot/static/media/logo.0c7bf061.svg",
+    "static/media/moon.jpg": "/sunnys-moonshot/static/media/moon.493bbb75.jpg",
+    "static/media/profile.ea589b57.svg": "/sunnys-moonshot/static/media/profile.ea589b57.svg",
+    "static/media/rocket.c27cc1f5.svg": "/sunnys-moonshot/static/media/rocket.c27cc1f5.svg",
+    "static/media/space.jpg": "/sunnys-moonshot/static/media/space.7dfc7923.jpg"
+  }
+}
