@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90201fb8a2089697bb72b792e12aaa30",
+    "revision": "777b6ffef0a262df0bdd0fafc287c106",
     "url": "/sunnys-moonshot/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sunnys-moonshot/static/js/2.135171e8.chunk.js"
   },
   {
-    "revision": "03fd7a11817e5e5db2f9",
-    "url": "/sunnys-moonshot/static/js/main.889ecd69.chunk.js"
+    "revision": "a83803f5c9c6d2ec1d53",
+    "url": "/sunnys-moonshot/static/js/main.87baeb8e.chunk.js"
   },
   {
     "revision": "b17e72c10d5e4b7af444",
